@@ -1,6 +1,8 @@
 # tmap
 tmap is a very fast visualization library for large, high-dimensional data sets. Currently, tmap is available for Python. tmaps graph layouts are based on the [OGDF](https://ogdf.uos.de/) library.
 
+*Note:* For building on Power, install the modified OGDF (https://github.com/jppgks/ogdf-powerpc) before building tmap.
+
 ### Tutorial and Documentation
 See <a href="http://tmap.gdb.tools">http://tmap.gdb.tools</a>
 
